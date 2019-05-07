@@ -19,7 +19,11 @@
     "@angular/platform-browser": "~8.0.0-rc.2",
     "@angular/platform-browser-dynamic": "~8.0.0-rc.2",
     "@angular/router": "~8.0.0-rc.2",
+    "@progress/kendo-angular-buttons": "^4.4.0",
+    "@progress/kendo-angular-l10n": "^1.4.0",
+    "@progress/kendo-theme-default": "^3.5.1",
     "rxjs": "~6.4.0",
+    "rxjs-compat": "^6.5.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.0"
   },
